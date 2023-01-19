@@ -1,0 +1,1 @@
+https://denisbrogg.hashnode.dev/efficient-python-docker-image-from-any-poetry-project
